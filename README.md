@@ -1,4 +1,5 @@
 # ScamOverflow
+A project aimed towards combatting recruitment scams and maintaining awareness of authentic job search.
 
 ## Team
 
