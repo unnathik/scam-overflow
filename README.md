@@ -1,5 +1,12 @@
 # ScamOverflow
 
+## Team
+
+[@akaashrp] (https://github.com/akaashrp)
+[@AnshBhatti] (https://github.com/AnshBhatti)
+[@neilgoyal] (https://github.com/neilgoyal)
+[@unnathik] (https://github.com/unnathik)
+
 ## Inspiration
 
 As college students looking to gain work experience in the field of Computer Science, we engaged in an internship search via online job boards. While these job boards generally provided great suggestions, some of the listings appeared strange: too good and easy to be true. Despite this, they had several applicants, which could very possibly mislead other potential applicants like us to apply. 
