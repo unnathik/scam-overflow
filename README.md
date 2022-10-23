@@ -40,3 +40,5 @@ We learned how to containerize a model for external deployment to our API and ho
 ## What's next for ScamOverflow
 
 Starting out as a community space and with a pre-trained model, ScamOverflow has a lot of scope to expand. Notably, we want to develop a Chrome extension to seamlessly integrate our functionality while users are browsing jobs in job boards, avoiding the extra time required for the users to query job descriptions into our interface. Additionally, we want to expand our community space to help further grow our dataset and make sure our model evolves with it. 
+
+[![Project Video](https://img.youtube.com/vi/TyP2LjH4QXc/0.jpg)](https://www.youtube.com/watch?v=TyP2LjH4QXc)
