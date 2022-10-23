@@ -2,10 +2,13 @@
 
 ## Team
 
-[@akaashrp] (https://github.com/akaashrp)
-[@AnshBhatti] (https://github.com/AnshBhatti)
-[@neilgoyal] (https://github.com/neilgoyal)
-[@unnathik] (https://github.com/unnathik)
+[@akaashrp](https://github.com/akaashrp)
+
+[@AnshBhatti](https://github.com/AnshBhatti)
+
+[@neilgoyal](https://github.com/neilgoyal)
+
+[@unnathik](https://github.com/unnathik)
 
 ## Inspiration
 
