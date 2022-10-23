@@ -1,4 +1,4 @@
-# hackgt-2022
+# ScamOverflow
 
 ## Inspiration
 
