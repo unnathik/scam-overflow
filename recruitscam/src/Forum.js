@@ -11,7 +11,7 @@ const Forum = () => {
   const Menus = [
     { title: "Home", icon: <FiHome />}, 
     {title: "Scam or Not?", icon: <BsSearch />, route: '/'},
-    {title: "Forum", icon: <BsChatRight />, route: '/forum'},
+    {title: "Report Jobs", icon: <BsChatRight />, route: '/forum'},
   ]
   const [posts, setPosts] = useState([])
 

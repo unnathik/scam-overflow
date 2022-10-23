@@ -30,7 +30,7 @@ const Scam = () => {
 
   return (
     <div className="flex">
-    <div className={`bg-blue-900 h-full p-5 pt-8 ${open ? "w-72" : "w-20"} duration-300 relative flex-1 overflow-visible`}>
+    <div className={`bg-blue-900 h-screen p-5 pt-8 ${open ? "w-72" : "w-20"} duration-300`}>
     <BsArrowLeftShort className={`bg-white text-blue-900 text-3xl rounded-full
     absolute -right-3 top-9 border border-blue-900 cursor-pointer ${!open && "rotate-180"}`} onClick={() => setOpen(!open)}/>
     <div>
