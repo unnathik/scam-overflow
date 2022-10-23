@@ -1,0 +1,22 @@
+.dropdown-item.selected {
+    padding: 5px;
+    cursor: pointer;
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+.dropdown-item:hover {
+  background-color: #9fc3f870;
+}
+
+.search-box {
+    padding: 5px;
+    background-color: #eee;
+}
+.search-box input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}

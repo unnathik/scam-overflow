@@ -1,6 +1,5 @@
 import {useState, useEffect} from 'react';
 import {BsSearch, BsChatRight, BsArrowLeftShort, BsArrowRightCircle} from "react-icons/bs";
-import { FiHome } from "react-icons/fi"
 import {signInWithGoogle} from './signInWithGoogle'
 import db, { auth } from './firebase'
 import { doc, onSnapshot, collection, query, where, serverTimestamp, addDoc } from "firebase/firestore";
@@ -9,7 +8,6 @@ import Post from './Post';
 const Forum = () => {
   const [open, setOpen] = useState(true);
   const Menus = [
-    { title: "Home", icon: <FiHome />}, 
     {title: "Scam or Not?", icon: <BsSearch />, route: '/'},
     {title: "Report Jobs", icon: <BsChatRight />, route: '/forum'},
   ]
